@@ -1,0 +1,85 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "mario_big_walk",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.26666666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "a6e5606d-b5ac-455d-8cb0-251ddc6cdfb5"
+            }
+          },
+          {
+            "frame": 0.08333333333333333,
+            "value": {
+              "__uuid__": "084c96b9-0f75-430b-bdc8-f3200d485917"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "57665f98-1a03-456c-8d82-4288d70ab40e"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "a6e5606d-b5ac-455d-8cb0-251ddc6cdfb5"
+            }
+          }
+        ]
+      },
+      "cc.PhysicsBoxCollider": {
+        "size": [
+          {
+            "frame": 0,
+            "value": {
+              "__type__": "cc.Size",
+              "width": 28,
+              "height": 54
+            }
+          }
+        ],
+        "offset": [
+          {
+            "frame": 0,
+            "value": {
+              "__type__": "cc.Vec2",
+              "x": 0,
+              "y": 8.1
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "width": [
+        {
+          "frame": 0,
+          "value": 28
+        }
+      ],
+      "height": [
+        {
+          "frame": 0,
+          "value": 54
+        }
+      ],
+      "anchorY": [
+        {
+          "frame": 0,
+          "value": 0.35
+        }
+      ]
+    }
+  },
+  "events": []
+}
