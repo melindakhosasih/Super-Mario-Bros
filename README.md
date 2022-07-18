@@ -16,7 +16,7 @@
 |Leaderboard|5%|Y|
 |Offline multi-player game|5%|N|
 |Online multi-player game|15%|N|
-|Others [name of functions]|1-15%|N|
+|Others [name of functions]|1-15%|Y|
 
 ---
 
@@ -27,7 +27,7 @@ Current Progress 90%
 * ### **Membership Mechanism**
 
     1.  Sign Up
-    2.  Login
+    2.  Log In
 
 * ### **Complete Game Process**
 
@@ -130,7 +130,7 @@ Current Progress 90%
 
     2. Leaderboard
 
-    3. Pause
+    3. Pause Menu
 
     4. Locked Stage
 
